@@ -53,7 +53,43 @@ WEEK01.MD COMPLETE.
 
 **4.**
 
-I believe that the single failure that did the most damage overall was the failure to establish and define the requirements at the beginning. Requirements are essential for every stage of the software process. For the development phase it is essential for developers to know the requirements so they know exactly what they are building and designing. In the validation phase it is these same requirements that the software at every stage is being tested against. Even in the evolution phase, any modification of requirements would require revisiting the previous requirements that were already established, whether that be to add to them, modify, remove etc. An essential list of requirements is incredibly important to do in the beginning of the software process which is what I believe led to the demise and failure of the project. A good software process does not guarantee a good product, but it certainly increases the likelihood of a successful one. 
+I believe that the single failure that did the most damage overall was the **failure to establish and define the requirements at the beginning**. Requirements are essential for every stage of the software process. For the development phase it is essential for developers to know the requirements so they know exactly what they are building and designing. In the validation phase it is these same requirements that the software at every stage is being tested against. Even in the evolution phase, any modification of requirements would require revisiting the previous requirements that were already established, whether that be to add to them, modify, remove etc. An essential list of requirements is incredibly important to do in the beginning of the software process which is what I believe led to the demise and failure of the project. A good software process does not guarantee a good product, but it certainly increases the likelihood of a successful one. 
+
+
+
+**Task 3 - Researching a Different Software Failure**
+
+**## Researching a Software Failure**
+
+**British Passport System (1999)**
+
+In 1999, the UK Passport Agency introduced a new computerised processing system to streamline passport applications. Developed by Siemens, the system was intended to modernise the process and improve efficiency. However, due to software glitches and system failures, the rollout caused massive delays, leaving thousands of UK citizens unable to get their passports in time for travel. The reason behind the failure was **inadequate testing.** 
+
+The system was not properly tested under real-world conditions, leading to bottlenecks when it was deployed. Additionally, the UK government **introduced a new passport requirements** for children around the same time, substantially increasing the volume of applications; something they system was not prepared to handle. 
+
+The total cost of the error was **£20 million.** 
+
+The failure forced the UK government to hire extra staff, work overtime, and compensate affected citizens, resulting in an estimated $20 million in financial losses. Furthermore, thousands of people missed their vacations and business trips, adding to the public outrage. 
+
+
+
+**Characteristics \& Importance of Software Engineering** 
+
+The failure is explained by the system becoming complex. Like mentioned above, the UK government had introduced a new passport requirements for children which the system was not prepared to handle. The real world consequence was the financial loss of £20 million pounds but also new hire of extra staff, work overtime and compensation of affected citizens. 
+
+**Link to source below:**
+
+https://www.theguardian.com/uk/1999/jun/03/alantravis 
+
+
+
+
+
+
+
+
+
+
 
 
 
