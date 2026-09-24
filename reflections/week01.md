@@ -83,7 +83,13 @@ https://www.theguardian.com/uk/1999/jun/03/alantravis
 
 
 
+**Task 4 - Revisiting the Software Crisis**
 
+The 1968/69 NATO Software Engineering Conferences addressed software crisis, which was characterised by the increasing complexity of software systems, the need for better alignment of software development with engineering principles and the challenges of managing large-scale software projects. The conferences recognised that certain classes of software systems were placing demands on the capabilities and methods of design and production that were not yet adequate, leading to issues such as deadlines being missed, budgets going over and systems being brittle to changes. 
+
+
+
+Yes, a version of software crisis exists today, with poor software more common than good software and failure more common than success. It is evident in the British Passport system; a system trying to expand and place demands on a growing software which was not yet adequate enough in itself. A more recent example was the Cloudflare's Software Bug that occurred in November 2025 where a configuration change triggered by Cloudfare caused a global outage, affecting thousands of websites and services. They tried changing their system in which was not yet adequate enough to be changed in such a manner.
 
 
 
